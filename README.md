@@ -1,2 +1,2 @@
 # arc-weather-app.
-weather forecast app..
+weather forecast app.
